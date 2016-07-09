@@ -1,0 +1,10 @@
+Package: PhilsAngleFinder
+Type: Package
+Title: Helps identify lens angles
+Version: 0.1
+Date: 2016-07-09
+Author: Paul Hewson
+Maintainer: Paul Hewson <paul.hewson@plymouth.ac.uk>
+Description: This helps a trained person identify features on a photograph
+License: Bananaman licence?
+Imports: jpeg
