@@ -55,7 +55,7 @@ verticald <-  vertical(v)
 
 
 
-h <- as.numeric(readline("What is the length of the horizontal bar \t"))
+#h <- as.numeric(readline("What is the length of the horizontal bar \t"))
 horizontald <-  horizontal(h)
 
 

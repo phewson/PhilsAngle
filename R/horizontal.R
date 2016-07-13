@@ -1,5 +1,5 @@
 horizontal <-
-function(microns){
+function(microns=2000){
   arrowlength <- locator()
   arrow <- max(arrowlength$x)-min(arrowlength$x)
   runits <- microns / arrow
