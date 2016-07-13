@@ -1,7 +1,7 @@
 Package: PhilsAngleFinder
 Type: Package
 Title: Helps identify lens angles
-Version: 0.1
+Version: 0.105
 Date: 2016-07-09
 Author: Paul Hewson
 Maintainer: Paul Hewson <paul.hewson@plymouth.ac.uk>
